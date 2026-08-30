@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 Tentang Saya
-* 🎓 **Pendidikan:** SMK Negeri [Nama Sekolah] - Rekayasa Perangkat Lunak (Lulus 2026)
+* 🎓 **Pendidikan:** SMK 17 Agustus 1945 - Rekayasa Perangkat Lunak (Lulus 2027)
 * 💡 **Passion:** Menerjemahkan konsep desain kreatif dari Figma menjadi antarmuka web yang responsif, interaktif, dan ramah pengguna.
 * 🌱 **Saat ini sedang:** Memperdalam pengembangan ekosistem React.js dan implementasi *Design System* modern.
 
@@ -65,7 +65,6 @@
 
 ## 📫 Hubungi Saya
 <p align="center">
-  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:maskhidirkhodrattulloh032709@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://https://www.instagram.com/kakdamdoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
