@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Halo, Saya Maskhidir Khodrattulloh</h1>
   <p><b>Junior Front-End Designer & Web Developer</b></p>
-  <p>Fresh Graduate SMK Rekayasa Perangkat Lunak (RPL) yang berfokus pada estetika UI/UX dan <i>clean code</i>.</p>
+  <p>Fresh Graduate SMKTAG Jurursan Rekayasa Perangkat Lunak (RPL) yang berfokus pada estetika UI/UX dan <i>clean code</i>.</p>
   
   <!-- Status Badge -->
   <p>
