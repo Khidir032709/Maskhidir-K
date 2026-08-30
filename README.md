@@ -18,10 +18,9 @@ Membangun antarmuka yang bersih, fungsional, dan enak dipandang.
 
 Saya adalah seorang **Front-End Designer** yang fokus pada perpaduan antara **estetika visual** dan **pengalaman pengguna (UX)**. Saya percaya bahwa desain yang baik bukan hanya soal tampilan cantik, tapi juga soal bagaimana sebuah produk terasa mudah dan menyenangkan digunakan.
 
-- 🔭 Saat ini sedang mengerjakan: `[Nama Proyek]`
 - 🌱 Sedang memperdalam: `Design Systems`, `Micro-interactions`, `Motion Design`
 - 💬 Tanyakan saya soal: `UI/UX`, `React`, `Tailwind CSS`, `Figma`
-- 📫 Cara menghubungi saya: **youremail@example.com**
+- 📫 Cara menghubungi saya: **maskhidirkhodrattulloh032709@gmail.com**
 - ⚡ Fun fact: Saya suka menyusun ulang layout sampai pixel-perfect 😄
 
 ---
