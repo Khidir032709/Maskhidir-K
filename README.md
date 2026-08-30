@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm [Nama Kamu] 👋
+# Hi there, I'm Maskhidir Khodrattulloh 👋
 ### Front-End Designer & Web Developer
 
 Membangun antarmuka yang bersih, fungsional, dan enak dipandang.
